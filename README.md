@@ -1,6 +1,6 @@
 # tencent_simple_sms
 
-基于腾讯云短信服务的简易发送短信Ruby gem
+基于腾讯云短信服务的Ruby gem
 
 ## 按照
 
